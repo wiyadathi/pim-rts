@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1079579547155432387
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -1584342889988269077, guid: adffe1cb6b035dc4ca69209a72650eb3, type: 3}
+      propertyPath: id
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -1584342889988269077, guid: adffe1cb6b035dc4ca69209a72650eb3, type: 3}
+      propertyPath: faction
+      value: 
+      objectReference: {fileID: 4754846961931154584, guid: 6163caeafa2143c4198a94cd825e6e01, type: 3}
+    - target: {fileID: -1584342889988269077, guid: adffe1cb6b035dc4ca69209a72650eb3, type: 3}
+      propertyPath: unitName
+      value: Fre.Regular
+      objectReference: {fileID: 0}
+    - target: {fileID: 186328, guid: adffe1cb6b035dc4ca69209a72650eb3, type: 3}
+      propertyPath: m_Name
+      value: French Soldier
+      objectReference: {fileID: 0}
+    - target: {fileID: 427352, guid: adffe1cb6b035dc4ca69209a72650eb3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 427352, guid: adffe1cb6b035dc4ca69209a72650eb3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 427352, guid: adffe1cb6b035dc4ca69209a72650eb3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 427352, guid: adffe1cb6b035dc4ca69209a72650eb3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 427352, guid: adffe1cb6b035dc4ca69209a72650eb3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 427352, guid: adffe1cb6b035dc4ca69209a72650eb3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 427352, guid: adffe1cb6b035dc4ca69209a72650eb3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 427352, guid: adffe1cb6b035dc4ca69209a72650eb3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 427352, guid: adffe1cb6b035dc4ca69209a72650eb3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 427352, guid: adffe1cb6b035dc4ca69209a72650eb3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 13717370, guid: adffe1cb6b035dc4ca69209a72650eb3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f127584f3ac531246bc261a957d03826, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: adffe1cb6b035dc4ca69209a72650eb3, type: 3}
